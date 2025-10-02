@@ -14,9 +14,9 @@
 
 
 <ul>
-  <li>
+  <!-- <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Canada</strong>
-  </li>
+  </li> -->
   <!-- <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://portfolio-007-rosy.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
   </li> -->
@@ -98,7 +98,7 @@ I even also duplicated the pumpfun's working method as new replica contract
 
 I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC, Telegram mini app and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
 
-You can contact me through telegram [@SOLBenjaminCup](https://t.me/SOLBenjaminCup) There, we can discuss on more comfortable contact way with you.
+You can contact me through telegram [@SOLBenjaminCup](https://t.me/SOLBenjaminCup) or [ErikSOL](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
 
 <br/>  
 
