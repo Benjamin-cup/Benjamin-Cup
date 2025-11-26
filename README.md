@@ -46,11 +46,11 @@
 
 <br/>  
 
-These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium That's my main skill to work with token trading field in Solana.
+Blockchain-Focused Full-Stack Engineer with deep experience designing and scaling high-throughput TypeScript APIs and cross-chain architectures. Proven track record of delivering end-to-end blockchain solutions, including NFT marketplaces, DeFi protocols, and autonomous AI-driven trading systems with 24/7 operational reliability and high-performance execution.
 
-I even also duplicated the pumpfun's working method as new replica contract
+Highly experienced in Solana and EVM-compatible smart contract development, with a strong background in building decentralized applications (DApps), decentralized exchanges (DEXs), and advanced automated trading infrastructure. Successfully designed and deployed multiple high-performance Solana trading bots, focusing on low-latency execution, real-time market monitoring, and robust risk management.
 
-I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC, Telegram mini app and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
+Recognized for system architecture expertise, performance optimization, and disciplined project execution. Dedicated to building production-grade, scalable systems that deliver consistent, measurable impact.
 
 You can contact me through telegram [@SOLBenjaminCup](https://t.me/SOLBenjaminCup) or [ErikSOL](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
 
