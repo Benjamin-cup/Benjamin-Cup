@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="benjamin.bigdev@gmail.com"><strong>Benjamin's gmail</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>Blockchain smart contracts and web3 applications</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>Blockchain smart contracts, web3 applications and Full-Stack projects</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Making <strong>Polymarket trading bots</strong> to create smarter user experiences
@@ -48,11 +48,11 @@
 
 Blockchain-Focused Full-Stack Engineer with deep experience designing and scaling high-throughput TypeScript APIs and cross-chain architectures. Proven track record of delivering end-to-end blockchain solutions, including NFT marketplaces, DeFi protocols, and autonomous AI-driven trading systems with 24/7 operational reliability and high-performance execution.
 
-Highly experienced in Solana and EVM-compatible smart contract development, with a strong background in building decentralized applications (DApps), decentralized exchanges (DEXs), and advanced automated trading infrastructure. Successfully designed and deployed multiple high-performance Solana trading bots, focusing on low-latency execution, real-time market monitoring, and robust risk management.
+Highly experienced in Bitcoin, Solana and EVM-compatible smart contract development, with a strong background in building decentralized applications (DApps), decentralized exchanges (DEXs), and advanced automated trading infrastructure. Successfully designed and deployed multiple high-performance Solana trading bots, focusing on low-latency execution, real-time market monitoring, and robust risk management.
 
 Recognized for system architecture expertise, performance optimization, and disciplined project execution. Dedicated to building production-grade, scalable systems that deliver consistent, measurable impact.
 
-You can contact me through telegram [@SOLBenjaminCup](https://t.me/BenjaminCup) or [ErikSOL](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
+You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) or [@ErikSOL](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
 
 <br/>  
 
