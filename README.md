@@ -20,9 +20,9 @@
   <!-- <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://portfolio-007-rosy.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
   </li> -->
-  <li>
+  <!-- <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="benjamin.bigdev@gmail.com"><strong>Benjamin's gmail</strong></a>
-  </li>
+  </li> -->
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>Blockchain smart contracts, web3 applications and Full-Stack projects</strong>
   </li>
@@ -52,7 +52,7 @@ Highly experienced in Bitcoin, Solana and EVM-compatible smart contract developm
 
 Recognized for system architecture expertise, performance optimization, and disciplined project execution. Dedicated to building production-grade, scalable systems that deliver consistent, measurable impact.
 
-You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) or [@ErikSOL](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
+You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) There, we can discuss on more comfortable contact way with you.
 
 <br/>  
 
@@ -65,11 +65,11 @@ You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) or 
 
 
 <p align="center">
-  <a href="mailto:benjamin.bigdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <!-- <a href="mailto:benjamin.bigdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> -->
   &nbsp;&nbsp;
   <a href="https://t.me/@BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1305610537790476382" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  <!-- <a href="https://discordapp.com/users/1305610537790476382" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a> -->
   &nbsp;&nbsp;
 </p>
 
